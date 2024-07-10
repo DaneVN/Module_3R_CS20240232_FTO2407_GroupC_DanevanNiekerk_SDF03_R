@@ -1,0 +1,7 @@
+#contactform {
+    display: flex;
+    align-items: baseline;
+}
+.input {
+    height: 16px;
+}
