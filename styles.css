@@ -1,6 +1,5 @@
 #contactform {
-    display: flex;
-    align-items: baseline;
+    display: inline;
 }
 .input {
     height: 16px;
